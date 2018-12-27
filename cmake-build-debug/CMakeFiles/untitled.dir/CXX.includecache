@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/imarakhovskiy/CLionProjects/untitled/diophant.cpp
+diophant.h
+/Users/imarakhovskiy/CLionProjects/untitled/diophant.h
+
+/Users/imarakhovskiy/CLionProjects/untitled/diophant.h
+stdlib.h
+-
+time.h
+-
+
+/Users/imarakhovskiy/CLionProjects/untitled/main.cpp
+iostream
+-
+diophant.h
+/Users/imarakhovskiy/CLionProjects/untitled/diophant.h
+
